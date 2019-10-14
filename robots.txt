@@ -1,9 +1,9 @@
 User-agent: *
 Allow: /
-Allow: /home/
-Allow: /archives/
-Allow: /gallery/
-Allow: /about/
+Allow: /主页/
+Allow: /文档/
+Allow: /相册/
+Allow: /关于/
 Disallow: /images/
 Disallow: /css/
 Disallow: /js/
